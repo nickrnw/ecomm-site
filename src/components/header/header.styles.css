@@ -4,28 +4,32 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 25px;
+    margin: 40px;
+    padding: 20px 80px;
 }
 
-.header .logo-container {
+.logo-container {
     height: 100%;
     width: 70px;
     padding: 25px;
+    font-size: smaller;
 }
 
-.header .logo-container .logo {
+.logo {
     display: flex;
     justify-content: flex-end;
 }
 
-.header .options {
+.options {
     width: 50%;
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    padding: 20px 80px;
 }
 
-.header .options .option {
+.option {
     margin-top: 25px;
     padding: 10px 15px;
 }
