@@ -11,3 +11,8 @@ a {
   text-decoration: none;
   color: black;
 }
+
+.content-app {
+  margin: 40px;
+  padding: 20px 80px;
+}
